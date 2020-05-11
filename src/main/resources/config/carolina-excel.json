@@ -1,0 +1,226 @@
+[
+  {
+    "excelHeader": "Day",
+    "excelIndex": 0,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "day"
+  },
+  {
+    "excelHeader": "Date",
+    "excelIndex": 1,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "date"
+  },
+  {
+    "excelHeader": "Time",
+    "excelIndex": 2,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "time"
+  },
+  {
+    "excelHeader": "Station",
+    "excelIndex": 3,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "station"
+  },
+  {
+    "excelHeader": "Title",
+    "excelIndex": 4,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "title"
+  },
+  {
+    "excelHeader": "Lang",
+    "excelIndex": 5,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "lang"
+  },
+  {
+    "excelHeader": "Dur",
+    "excelIndex": 6,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "duration"
+  },
+  {
+    "excelHeader": "Feat Code",
+    "excelIndex": 7,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "featCode"
+  },
+  {
+    "excelHeader": "Rate Code",
+    "excelIndex": 8,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "rateCode"
+  },
+  {
+    "excelHeader": "Event Type",
+    "excelIndex": 9,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "eventType"
+  },
+  {
+    "excelHeader": "Break Pos",
+    "excelIndex": 10,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "breakPos"
+  },
+  {
+    "excelHeader": "M/B",
+    "excelIndex": 11,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "mb"
+  },
+  {
+    "excelHeader": "Film No",
+    "excelIndex": 12,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "filmNo"
+  },
+  {
+    "excelHeader": "Cost",
+    "excelIndex": 13,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "cost"
+  },
+  {
+    "excelHeader": "SpotTVRs",
+    "excelIndex": 14,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "spotTVRs"
+  },
+  {
+    "excelHeader": "Spot Viewers",
+    "excelIndex": 15,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "spotViewers"
+  },
+  {
+    "excelHeader": "Spot 30 CPP",
+    "excelIndex": 16,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "spotThirtyCPP"
+  },
+  {
+    "excelHeader": "Spot CPP",
+    "excelIndex": 17,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "spotCPP"
+  },
+  {
+    "excelHeader": "Spot CPT",
+    "excelIndex": 18,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "spotCPT"
+  },
+  {
+    "excelHeader": "Gross TVRs",
+    "excelIndex": 19,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "grossTVRs"
+  },
+  {
+    "excelHeader": "Freq Dist",
+    "excelIndex": 20,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "freqDist"
+  },
+  {
+    "excelHeader": "Exp %",
+    "excelIndex": 21,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "expPercentage"
+  },
+  {
+    "excelHeader": "Break TVR",
+    "excelIndex": 22,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "breakTVR"
+  },
+  {
+    "excelHeader": "Break CPP",
+    "excelIndex": 23,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "breakCPP"
+  },
+  {
+    "excelHeader": "Break Index",
+    "excelIndex": 24,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "breakIndex"
+  },
+  {
+    "excelHeader": "Prog TVR",
+    "excelIndex": 25,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "progTVR"
+  },
+  {
+    "excelHeader": "Prog CPP",
+    "excelIndex": 26,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "progCPP"
+  },
+  {
+    "excelHeader": "Prog Index",
+    "excelIndex": 27,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "progIndex"
+  },
+  {
+    "excelHeader": "Daypart TVR",
+    "excelIndex": 28,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "daypartTVR"
+  },
+  {
+    "excelHeader": "Daypart CPP",
+    "excelIndex": 29,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "daypartCPP"
+  },
+  {
+    "excelHeader": "Daypart Index",
+    "excelIndex": 30,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "daypartIndex"
+  },
+  {
+    "excelHeader": "Spot 30 TVR",
+    "excelIndex": 31,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "spotThirtyTVR"
+  }
+]

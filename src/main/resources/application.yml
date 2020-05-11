@@ -1,0 +1,21 @@
+#actuator
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+spring:
+  profiles:
+    include:
+      - excel-config
+  #multipart file size config
+  servlet:
+    multipart:
+      enabled: true
+      fileSizeThreshold: 100MB
+      max-file-size: 100MB
+      max-request-size: 100MB

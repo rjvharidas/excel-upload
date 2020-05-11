@@ -1,0 +1,121 @@
+[
+  {
+    "excelHeader": "Day",
+    "excelIndex": 0,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "day"
+  },
+  {
+    "excelHeader": "Date",
+    "excelIndex": 1,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "date"
+  },
+  {
+    "excelHeader": "Station",
+    "excelIndex": 2,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "station"
+  },
+  {
+    "excelHeader": "From",
+    "excelIndex": 3,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "startTime"
+  },
+  {
+    "excelHeader": "To",
+    "excelIndex": 4,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "endTime"
+  },
+  {
+    "excelHeader": "Plan Title",
+    "excelIndex": 5,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "title"
+  },
+  {
+    "excelHeader": "Dur",
+    "excelIndex": 6,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "duration"
+  },
+  {
+    "excelHeader": "U1",
+    "excelIndex": 7,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "uOne"
+  },
+  {
+    "excelHeader": "Comment",
+    "excelIndex": 8,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "comment"
+  },
+  {
+    "excelHeader": "Feature",
+    "excelIndex": 9,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "featCode"
+  },
+  {
+    "excelHeader": "Rate Code",
+    "excelIndex": 10,
+    "excelColType": "String",
+    "excelValue": null,
+    "pojoAttribute": "rateCode"
+  },
+  {
+    "excelHeader": "Ratecard Cost",
+    "excelIndex": 11,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "rateCardCost"
+  },
+  {
+    "excelHeader": "Plan Cost",
+    "excelIndex": 12,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "cost"
+  },
+  {
+    "excelHeader": "Brk Viewers",
+    "excelIndex": 13,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "breakViewers"
+  },
+  {
+    "excelHeader": "Plan Brk CPT",
+    "excelIndex": 14,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "breakCPT"
+  },
+  {
+    "excelHeader": "Plan Brk TVR",
+    "excelIndex": 15,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "breakTVR"
+  },
+  {
+    "excelHeader": "Plan Brk CPP",
+    "excelIndex": 16,
+    "excelColType": "Double",
+    "excelValue": null,
+    "pojoAttribute": "breakCPP"
+  }
+]

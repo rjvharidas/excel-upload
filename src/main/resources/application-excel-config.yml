@@ -1,0 +1,25 @@
+excel:
+  configs:
+    - agencyName: Telesure
+      configName: telesure-excel.json
+      rowLimit: 1
+      sheet: 2
+      startingRow: 14
+
+    - agencyName: Carolina
+      configName: carolina-excel.json
+      rowLimit: 2
+      sheet: 1
+      startingRow: 11
+
+    - agencyName: Paco
+      configName: paco-excel.json
+      rowLimit: 2
+      sheet: 1
+      startingRow: 14
+
+    - agencyName: Telmar
+      configName: telmar-excel.json
+      rowLimit: 19
+      sheet: 1
+      startingRow: 4

@@ -1,0 +1,23 @@
+#actuator
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+spring:
+  #mongo db cluster connection
+  data:
+    mongodb:
+      database: TataTest
+      uri: mongodb+srv://rjv-tata-test:tata_test@cluster0-nuuzu.mongodb.net/test?retryWrites=true&w=majority
+  #multipart file size config
+  servlet:
+    multipart:
+      enabled: true
+      fileSizeThreshold: 100MB
+      max-file-size: 100MB
+      max-request-size: 100MB
